@@ -160,5 +160,5 @@ class DaemonEpoll
 
 }
 
-
+//实例化
 //new DaemonEpoll();
